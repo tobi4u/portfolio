@@ -1,7 +1,13 @@
-main{
-    color:black;
+head {
+    text-align: center;
+    color: ;
 }
 
-h1{
-    color: blue;
+body {
+    text-align: center;
+}
+button{
+    color:green;
+    font-family: 'Times New Roman', Times, serif;
+    height: fit-content;
 }
