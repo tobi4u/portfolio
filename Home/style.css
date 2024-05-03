@@ -96,7 +96,7 @@ header {
 }
 
 nav {
-    display:inline;
+    display: inline;
     flex-direction: column;
     justify-content: center;
     position: absolute;
@@ -112,7 +112,7 @@ nav {
     background-color: black;
     width: 9rem;
     text-decoration: none;
-    display:flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     height: 1.5rem;
@@ -123,124 +123,3 @@ nav {
     background-color: #ACFDB0;
     color: rgb(0, 0, 0);
 }
-
-
-
-
-
-/* .button{
-    border: ;
-    border-radius: 25px;
-    width: 7rem;
-    height: 2.5rem;
-    background-color: aqua;
-} */
-
-/* body {
-}
-
-.header1 {
-    text-align: left;
-    color: white;
-    font-size: xx-small;
-}
-
-main {
-    background-color: #ACFDB0;
-    border-radius: 30px;
-    padding-top: 1rem;
-    padding-bottom: -1px;
-}
-
-.h2-1 {
-    color:black;
-    display: grid;
-    text-justify: auto;
-}
-
-.img1 {
-    height: 200px;
-    width: 200px;
-    border-radius: 100%;
-}
-
-.span1 {
-    font-weight: normal;
-}
-
-.span2 {
-    font-weight: bold;
-}
-
-.nav1 {
-    display: flex;
-    text-align: right;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    word-spacing: 40px;
-    justify-content: space-between;
-    position: fixed;
-}
-
-#trial {
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    background-color: #ACFDB0;
-    border-color: white;
-    border: 1px solid white;
-}
-
-#trial1 {
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    background-color: black;
-    border-color: white;
-    border: 1px solid white;
-    
-}
-
-#trial2 {
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    background-color: black;
-    border-color: white;
-    border: 1px solid white;
-    
-}
-
-#trial3 {
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    background-color: black;
-    border-color: white;
-    border: 1px solid white;
-    
-}
-
-#trial4 {
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    background-color: black;
-    border-color: white;
-    border: 1px solid white;
-}
-
-#first{
-    color: black;
-}
-.button {
-    color: white;
-    margin: 20px;
-    padding: 5px;
-    text-decoration: none;
-} */
